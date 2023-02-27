@@ -35,21 +35,20 @@
  
 💠 **Tasks:**
 
-    ⭐ Task 1: Project Overview and Demo
+    ⭐ Task 1: Analyzing Movie Release Dates
   
-    ⭐ Task 2: Turn Simple Python Scripts into Web Apps
+    ⭐ Task 2: Preprocessing Features 
    
-    ⭐ Task 3: Load the Twitter US Airline Sentiment Data
+    ⭐ Task 3: Create Features Based on Release Date
    
-    ⭐ Task 4: Display Tweets in the Sidebar
+    ⭐ Task 4: Using Plotly to Visualize the Number of Films Per Year
    
-    ⭐ Task 5: Plot Interactive Bar Plots and Pie Charts
+    ⭐ Task 5: Number of Films and Revenue Per Year
    
-    ⭐ Task 6: Plotting Location Data on an Interactive Map
+    ⭐ Task 6: Do Release Days Impact Revenue?
    
-    ⭐ Task 7: Plot Number of Tweets by Sentiment for Each Airline
-    
-    ⭐ Task 8: Word Cloud for Positive, Neutral, and Negative Tweets
+    ⭐ Task 7: Relationship between Runtime and Revenue
+
     
 ----------
 
